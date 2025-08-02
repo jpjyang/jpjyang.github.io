@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingping Yang"
+title                    : "JINGPING YANG"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "jpjyang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jingping Yang"
+  name             : "Jingping Yang 杨 静平"
   pronouns         : "she/her"  
-  bio              : "PhD student in social psychology"
+  bio              : "PhD student, social psychology"
   location         : "Columbus, OH, US"
   employer         : "The Ohio State University"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
